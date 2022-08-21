@@ -1,0 +1,28 @@
+body {
+  margin: 100px;
+}
+input {
+  width: 70vw;
+  padding: 12px 20px;
+  margin: 8px 0;
+  box-sizing: border-box;
+  align-items: center;
+}
+.div-flex-signup {
+  display: flex;
+  justify-content: center;
+  align-content: center;
+}
+.form-signup {
+  width: 50vw;
+  align-items: center;
+}
+
+.Btn {
+  margin-top: 30px;
+  width: 80px;
+  height: 30px;
+  background-color: white;
+  color: black;
+  border: 2px solid #4caf50; /* Green */
+}
